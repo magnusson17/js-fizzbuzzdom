@@ -1,3 +1,4 @@
+/*bg color*/
 .bg_purple {
     background-color: purple;
 }
@@ -12,4 +13,30 @@
 
 .bg_blue {
     background-color: blue;
+}
+
+.bg_cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.w_75 {
+    width: 75%;
+}
+
+.m_0_auto {
+    margin: 0 auto;
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.d_flex {
+    display: flex;
+    flex-wrap: wrap;
 }
