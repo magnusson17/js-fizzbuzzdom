@@ -12,3 +12,4 @@ for (let i = 1; i < 101; i++) {
         containerOne.innerHTML += `<div class="bg_FFD166 square">buzz</div>`;
     }
 }
+
